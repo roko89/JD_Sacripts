@@ -1,5 +1,5 @@
 ## Github Action使用教程说明
- - Fork [此仓库项目](https://github.com/lxk0301/scripts) > 点击右上角fork按钮即可, [再不会可看此图](icon/fork.png)
+ - Fork [此仓库项目](https://github.com/roko89/JD_Sacripts) > 点击右上角fork按钮即可, [再不会可看此图](icon/fork.png)
 
  - 然后参考github@ruicky写的特别详细的小白教程[@ruicky教程](https://ruicky.me/2020/06/05/jd-sign/) (**注：此 [@ruicky教程](https://ruicky.me/2020/06/05/jd-sign/) 里面获取ck的方法不对。参考下面两种获取京东cookie的方式才对.**)
 
@@ -32,7 +32,7 @@
     pt_key=eeeeeeeee;pt_pin=ffffffff;
     ```
   - 京东cookie获取看这里
-    - [浏览器获取京东cookie教程](https://github.com/lxk0301/jd_scripts/blob/master/backUp/GetJdCookie.md) 或者 [插件获取京东cookie教程](https://github.com/lxk0301/scripts/blob/master/backUp/GetJdCookie2.md)
+    - [浏览器获取京东cookie教程](https://github.com/lxk0301/jd_scripts/blob/master/backUp/GetJdCookie.md) 或者 [插件获取京东cookie教程](https://github.com/lxk0301/jd-scripts/blob/master/backUp/GetJdCookie2.md)
     - IOS代理软件(Surge, Quantumult X, Loon)等用户有使用过BoxJs的,可在BoxJs里面提取京东cookie(打开BoxJs -> 底部中间的 `应用` -> NobyDa脚本订阅 -> 京东(多合一签到) -> 点击会话右上方的三个点点 -> 修改会话 -> 全选复制即可)，再不会看此[图文教程](icon/jd8.png)
     
     
@@ -48,9 +48,9 @@
 
 #### 如何查看Action运行情况
 
-   - [查看运行状态](https://raw.githubusercontent.com/lxk0301/scripts/master/icon/action1.png)
+   - [查看运行状态](https://github.com/roko89/JD_Sacripts/blob/master/icon/action1.png)
     
-   - [查看运行日志](https://raw.githubusercontent.com/lxk0301/scripts/master/icon/action2.png)  
+   - [查看运行日志](https://github.com/roko89/JD_Sacripts/blob/master/icon/action2.png)  
 
 
 
