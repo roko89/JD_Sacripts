@@ -32,7 +32,7 @@
     pt_key=eeeeeeeee;pt_pin=ffffffff;
     ```
   - 京东cookie获取看这里
-    - [浏览器获取京东cookie教程](https://github.com/lxk0301/jd_scripts/blob/master/backUp/GetJdCookie.md) 或者 [插件获取京东cookie教程](https://github.com/lxk0301/jd-scripts/blob/master/backUp/GetJdCookie2.md)
+    - [浏览器获取京东cookie教程](https://github.com/roko89/JD_Sacripts/blob/master/backUp/GetJdCookie.md) 或者 [插件获取京东cookie教程](hhttps://github.com/roko89/JD_Sacripts/blob/master/backUp/GetJdCookie2.md)
     - IOS代理软件(Surge, Quantumult X, Loon)等用户有使用过BoxJs的,可在BoxJs里面提取京东cookie(打开BoxJs -> 底部中间的 `应用` -> NobyDa脚本订阅 -> 京东(多合一签到) -> 点击会话右上方的三个点点 -> 修改会话 -> 全选复制即可)，再不会看此[图文教程](icon/jd8.png)
     
     
